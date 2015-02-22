@@ -1,12 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0f291304-93c6-4c8c-83aa-5ec30465a709" name="Default" comment="Intellij IDEA is config file add">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
-    <list id="bbc8e4c4-3fc9-4837-9792-d757ae71bd4b" name="Rejected commit: Default" comment="Intellij IDEA is config file add">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jsDemo/jsDemo8.html" afterPath="$PROJECT_DIR$/jsDemo/jsDemo8.html" />
-    </list>
+    <list default="true" id="0f291304-93c6-4c8c-83aa-5ec30465a709" name="Default" comment="Intellij IDEA is config file add" />
+    <list id="bbc8e4c4-3fc9-4837-9792-d757ae71bd4b" name="Rejected commit: Default" comment="Intellij IDEA is config file add" />
     <ignored path="AusPj.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
